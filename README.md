@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Muhammad Atif 👋
 
-<!--
-**atifch319/atifch319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior .NET Developer with 9+ years of experience building
+web applications, APIs, healthcare systems, integrations,
+and enterprise software.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- C#
+- ASP.NET Core
+- .NET 10
+- Web API
+- Minimal APIs
+- CQRS
+- MediatR
+- Clean Architecture
+- Vertical Slice Architecture
+
+### Frontend
+- Angular
+- React
+
+### Databases
+- SQL Server
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### Cloud & DevOps
+- Azure
+- AWS
+- GitHub
+- Azure DevOps
+
+### AI
+- RAG
+- Embeddings
+- Vector Search
+- OpenAI APIs
+
+## 📌 Featured Projects
+
+- ASP.NET Core Minimal APIs vs Controllers
+- Vertical Slice Architecture
+- Global Exception Handling
+- AI RAG with .NET & Angular
+- Stripe Payment Integration
