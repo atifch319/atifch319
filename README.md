@@ -1,48 +1,25 @@
-# Hi, I'm Muhammad Atif 👋
+Hi, I'm Muhammad Atif 👋
 
-Senior .NET Developer with 9+ years of experience building
-web applications, APIs, healthcare systems, integrations,
+Senior .NET Developer with 9+ years of experience building scalable
+web applications, REST APIs, healthcare systems, integrations,
 and enterprise software.
 
-## 🚀 Tech Stack
+🛠️ Core Expertise
+• C# / ASP.NET Core / .NET 10
+• RESTful Web APIs / Minimal APIs
+• CQRS / MediatR
+• Clean Architecture / Vertical Slice Architecture
+• Angular / React
+• SQL Server / PostgreSQL / MongoDB
+• Azure / AWS
+• OpenAI / RAG / Embeddings / Vector Search
 
-### Backend
-- C#
-- ASP.NET Core
-- .NET 10
-- Web API
-- Minimal APIs
-- CQRS
-- MediatR
-- Clean Architecture
-- Vertical Slice Architecture
+🚀 Featured Projects
+• Minimal APIs vs Controllers
+• Vertical Slice Architecture
+• Global Exception Handling
+• AI RAG .NET + Angular
+• Stripe Payment Integration
 
-### Frontend
-- Angular
-- React
-
-### Databases
-- SQL Server
-- PostgreSQL
-- MySQL
-- MongoDB
-
-### Cloud & DevOps
-- Azure
-- AWS
-- GitHub
-- Azure DevOps
-
-### AI
-- RAG
-- Embeddings
-- Vector Search
-- OpenAI APIs
-
-## 📌 Featured Projects
-
-- ASP.NET Core Minimal APIs vs Controllers
-- Vertical Slice Architecture
-- Global Exception Handling
-- AI RAG with .NET & Angular
-- Stripe Payment Integration
+📫 Connect with me
+LinkedIn | GitHub
